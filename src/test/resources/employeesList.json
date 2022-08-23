@@ -1,5 +1,12 @@
-{
-  "firstName": "Homer",
-  "lastName": "Simpson",
-  "age": 44
-}
+[
+  {
+    "firstName": "Homer",
+    "lastName": "Simpson",
+    "age": 44
+  },
+  {
+    "firstName": "Marge",
+    "lastName": "Simpson",
+    "age": 33
+  }
+]

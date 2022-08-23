@@ -1,2 +1,13 @@
-package simple.software.learn;public class BasicUser {
+package simple.software.learn;
+
+import lombok.Builder;
+import lombok.Data;
+import lombok.ToString;
+
+@Data
+@Builder
+@ToString
+public class BasicUser {
+  private int id;
+  private String name;
 }
